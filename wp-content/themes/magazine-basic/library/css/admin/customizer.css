@@ -1,0 +1,52 @@
+/* =Customizer CSS
+-------------------------------------------------------------- */
+.custom-textarea {
+	width: 100%;
+}
+
+#customize-control-layout .customize-control-title {
+	margin-bottom: 5px;
+}
+
+#customize-control-layout label {
+	display: block;
+	clear: both;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+#customize-control-layout label input {
+	display: inline-block;
+	margin-top: -80px;
+}
+
+#customize-control-layout div {
+	width: 124px;
+	height: 84px;
+	background: url(../../images/layout.jpg) no-repeat 0 0;
+	display: inline-block;
+}
+
+	#customize-control-layout .right {
+		background-position: 0 -84px;
+	}
+
+	#customize-control-layout .left.second-sidebar {
+		background-position: 0 -250px;
+	}
+
+	#customize-control-layout .right.second-sidebar {
+		background-position: 0 -336px;
+	}
+
+	#customize-control-layout .separate {
+		background-position: 0 -168px;
+	}
+
+	#customize-control-layout .none {
+		background-position: 0 -419px;
+	}
+
+p.description.more-top {
+    margin-top: 8px;
+}

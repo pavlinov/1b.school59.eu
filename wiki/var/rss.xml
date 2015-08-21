@@ -1,0 +1,33 @@
+<rss version="2.0">
+<channel>
+<title>Школа N59 1-Б</title>
+<link>http://1b.school59.eu:80/wiki/index.php</link>
+<description>RSS feed from Школа N59 1-Б</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Thu, 20 Aug 2015 15:44:42 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете <del>самомтоятельно</del><ins>самоcтоятельно</ins> редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Thu, 20 Aug 2015 15:43:19 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самомтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.</ins>
+</pre></description>
+	</item>
+
+</channel>
+</rss>
