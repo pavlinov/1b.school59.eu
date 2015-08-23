@@ -1,9 +1,319 @@
 <rss version="2.0">
 <channel>
-<title>Школа N59 1-Б</title>
+<title>1-Б класс, школа №59</title>
 <link>http://1b.school59.eu:80/wiki/index.php</link>
-<description>RSS feed from Школа N59 1-Б</description>
-<language>en-US</language>
+<description>RSS feed from 1-Б класс, школа №59</description>
+<language>ru</language>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:54:06 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+*[Николаевская гимназия <del>№2, г.Николаев|http://gymnasiya2.org.ua/]</del><ins>№2|http://gymnasiya2.org.ua/]</ins>
+
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+
+*[Детские и юношеские центры, организации, г.Николаев|http://www.mbcnikolaev.com.ua/category/obrazo/detski2/index.php]
+*[Дворец творчества учащихся, г.Николаев|http://vk.com/club19490798]
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:53:38 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+*[Николаевская гимназия <del>№2|http://gymnasiya2.org.ua/]</del><ins>№2, г.Николаев|http://gymnasiya2.org.ua/]
+</ins>
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+<del>*[Дворец творчества учащихся г.Николаев|http://vk.com/club19490798]
+*[Список: Детские</del><ins>
+*[Детские</ins> и юношеские центры, <del>организации|http://www.mbcnikolaev.com.ua/category/obrazo/detski2/index.php]</del><ins>организации, г.Николаев|http://www.mbcnikolaev.com.ua/category/obrazo/detski2/index.php]
+*[Дворец творчества учащихся, г.Николаев|http://vk.com/club19490798]
+</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:49:22 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">{include:subpage menu}
+!!Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную <del>информацию о работе класса.</del><ins>информацию.</ins>
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+----
+{include:links}
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>subpage menu</title>
+	  <pubDate>Sat, 22 Aug 2015 10:48:29 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=subpage+menu</link>
+	  <description><pre id="diff">{menu test
+<del>  [Начало|Main page]
+  [Полезные ссылки|links]
+</del>
+  [На главную|/]
+<ins>  [Полезные ссылки|links]</ins>
+}
+</pre></description>
+	</item>
+
+	<item>
+	  <title>subpage menu</title>
+	  <pubDate>Sat, 22 Aug 2015 10:47:50 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=subpage+menu</link>
+	  <description><pre id="diff">{menu test
+  <del>[На главную|/]
+  [Wiki|Main</del><ins>[Начало|Main</ins> page]
+  [Полезные ссылки|links]
+<ins>
+  [На главную|/]</ins>
+}
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:42:18 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+*[Николаевская гимназия №2|http://gymnasiya2.org.ua/]
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+*[Дворец творчества учащихся г.Николаев|http://vk.com/club19490798]
+<ins>*[Список: Детские и юношеские центры, организации|http://www.mbcnikolaev.com.ua/category/obrazo/detski2/index.php]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:41:20 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+*[Николаевская гимназия №2|http://gymnasiya2.org.ua/]
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+<del>[Дворец</del><ins>*[Дворец</ins> творчества учащихся г.Николаев|http://vk.com/club19490798]
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:41:01 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+*[Николаевская гимназия №2|http://gymnasiya2.org.ua/]
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+<ins>[Дворец творчества учащихся г.Николаев|http://vk.com/club19490798]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:38:04 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff">Полезные ссылки:
+<ins>*[Николаевская гимназия №2|http://gymnasiya2.org.ua/]</ins>
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+<ins></ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:36:38 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">{include:subpage menu}
+<del>!Добрый</del><ins>!!Добрый</ins> День!<del>
+!!Вы</del><ins>
+Вы</ins> попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+----
+{include:links}
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:35:55 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">{include:subpage menu}
+<del>Добрый</del><ins>!Добрый</ins> День!<del>
+Вы</del><ins>
+!!Вы</ins> попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+----
+{include:links}
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:34:03 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">{include:subpage menu}
+Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+<del>===</del><ins>----</ins>
+{include:links}
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>subpage menu</title>
+	  <pubDate>Sat, 22 Aug 2015 10:32:41 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=subpage+menu</link>
+	  <description><pre id="diff">{menu test
+  [На главную|/]
+  [Wiki|Main page]
+<ins>  [Полезные ссылки|links]</ins>
+}
+</pre></description>
+	</item>
+
+	<item>
+	  <title>links</title>
+	  <pubDate>Sat, 22 Aug 2015 10:31:59 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=links</link>
+	  <description><pre id="diff"><ins>Полезные ссылки:
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:31:49 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">{include:subpage menu}
+Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+===
+<del>Полезные ссылки:
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]</del><ins>{include:links}</ins>
+
+</pre></description>
+	</item>
+
+	<item>
+	  <title>subpage menu</title>
+	  <pubDate>Sat, 22 Aug 2015 10:30:48 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=subpage+menu</link>
+	  <description><pre id="diff">{menu test
+  <del>[Home|Main</del><ins>[На главную|/]
+  [Wiki|Main</ins> page]<del>
+  [Installation|UserGuide: Installation]
+  [Appearance]
+  [Plugins|UserGuide: Plugins]
+  [UserGuide]
+  [Syntax reference]
+  [Forum|./newforum/index.php/board,1.0.html]
+  [Old archived forum|./forum/]
+  [About LionWiki]</del>
+}
+</pre></description>
+	</item>
+
+	<item>
+	  <title>subpage menu</title>
+	  <pubDate>Sat, 22 Aug 2015 10:29:15 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=subpage+menu</link>
+	  <description><pre id="diff"><ins>{menu test
+  [Home|Main page]
+  [Installation|UserGuide: Installation]
+  [Appearance]
+  [Plugins|UserGuide: Plugins]
+  [UserGuide]
+  [Syntax reference]
+  [Forum|./newforum/index.php/board,1.0.html]
+  [Old archived forum|./forum/]
+  [About LionWiki]
+}</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Test</title>
+	  <pubDate>Sat, 22 Aug 2015 10:27:08 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Test</link>
+	  <description><pre id="diff"><ins>asdfasdfasdf</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:26:58 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>{include:subpage menu}</ins>
+Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+===
+Полезные ссылки:
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]
+<ins></ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 10:00:54 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+===
+Полезные ссылки:
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]
+<ins>*[ІСУО інформаційна система управління освітою|https://www.isuo.org/]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Sat, 22 Aug 2015 09:58:55 -0700</pubDate>
+	  <link>http://1b.school59.eu:80/wiki/index.php?page=Main+page</link>
+	  <description><pre id="diff">Добрый День!
+Вы попали на вики '''1-Б класс''' школы №59.
+Здесь вы найдете полезную информацию о работе класса.
+Вы так же можете самоcтоятельно редактировать и править каждую страницу этого сайта.
+Убедительно просим не флудить на страницах вики.
+<ins>===
+Полезные ссылки:
+*[Управління освіти Миколаївської міської ради|http://osvita-mk.org.ua]</ins>
+</pre></description>
+	</item>
 
 	<item>
 	  <title>Main page</title>
@@ -28,6 +338,27 @@
 Убедительно просим не флудить на страницах вики.</ins>
 </pre></description>
 	</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </channel>
 </rss>

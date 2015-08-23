@@ -1,3 +1,8 @@
+AuthUserFile /var/chroot/home/content/43/4992243/html/school59.eu/1b.school59.eu/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Restricted area! Just for parrents 1b"
+AuthType Basic
+require valid-user
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>

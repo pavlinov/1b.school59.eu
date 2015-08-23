@@ -2449,10 +2449,10 @@ function wp_site_icon() {
 	}
 
 	$meta_tags = array(
-		#sprintf( '<link rel="icon" href="%s" sizes="32x32" />', esc_url( get_site_icon_url( 32 ) ) ),
-		sprintf( '<link rel="shortcut icon" href="%s" />', esc_url( get_site_icon_url( 192 ) ) ),
-		sprintf( '<link rel="apple-touch-icon" href="%s">', esc_url( get_site_icon_url( 180 ) ) ),
-		sprintf( '<meta name="msapplication-TileImage" content="%s">', esc_url( get_site_icon_url( 270 ) ) ),
+		sprintf( '	<link rel="icon" href="%s" sizes="32x32" />', esc_url( get_site_icon_url( 32 ) ) ),
+		sprintf( '	<link rel="shortcut icon" href="%s" />', esc_url( get_site_icon_url( 192 ) ) ),
+		sprintf( '	<link rel="apple-touch-icon" href="%s">', esc_url( get_site_icon_url( 180 ) ) ),
+		sprintf( '	<meta name="msapplication-TileImage" content="%s">', esc_url( get_site_icon_url( 270 ) ) ),
 	);
 
 	/**
